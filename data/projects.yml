@@ -1,0 +1,19 @@
+- name: Wolfminute
+  description: A web app to optimize meetings
+  image: projects/placeholder.png
+  url: https://www.google.com
+
+- name: Happy Ending
+  description: A marketplace to rental boyfriends and girlfriends
+  image: projects/placeholder.png
+  url: https://www.google.com
+
+- name: Ice Cream Shop
+  description: A web app to create new menus
+  image: projects/placeholder.png
+  url: https://www.google.com
+
+- name: Final project
+  description: Decent description of the app
+  image: projects/placeholder.png
+  url: https://www.google.com
