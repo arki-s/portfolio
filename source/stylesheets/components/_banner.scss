@@ -4,10 +4,17 @@
   h1 {
     font-weight: bold;
     font-size: 60px;
+    text-shadow: 2px 2px 2px $orange;
 
   }
 }
 
 .text-container {
   text-align: center;
+
+  h2 {
+    font-weight: bold;
+    font-size: 40px;
+    text-shadow: 2px 2px 2px $orange;
+  }
 }
