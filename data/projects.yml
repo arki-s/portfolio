@@ -1,19 +1,27 @@
 - name: Wolfminute
-  description: A web app to optimize meetings
-  image: projects/placeholder.png
-  url: https://www.google.com
+  role: Lead Developer
+  used: Rails, JavaScript, Stimulus, AJAX, HTML, SCSS, SQL, ChatGPT API
+  description: A web app to optimize meetings. When booking a meeting, ChatGPT will suggest an appropriate date, time and agenda. In online meetings, ChatGPT will automatically extract the summary. Also provides analytics on the time and cost of each member.
+  image: projects/wolfminute.png
+  url: https://wolfminute.com
 
 - name: Happy Ending
-  description: A marketplace to rental boyfriends and girlfriends
+  role: Lead Developer
+  used: Rails, JavaScript, Stimulus, AJAX, HTML, SCSS, SQL
+  description: A fictitious marketplace to rental boyfriends and girlfriends. You can book your favorite people and also offer new service to become new rental boyfriend or girlfriend.
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://happyending.herokuapp.com/
 
 - name: Ice Cream Shop
-  description: A web app to create new menus
-  image: projects/placeholder.png
+  role:
+  used: Rails, HTML, SCSS, SQL
+  description: A web app to help an ice cream shop owner by creating new menus. The more you create a new menu, the more happy the owner is.
+  image: projects/icecreamshop.png
   url: https://www.google.com
 
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+# - name: Final project
+#   role:
+#   used:
+#   description: Decent description of the app
+#   image: projects/placeholder.png
+#   url: https://www.google.com
