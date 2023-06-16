@@ -82,6 +82,7 @@ GEM
     padrino-support (0.15.3)
     parallel (1.23.0)
     parslet (2.0.0)
+    pg (1.5.3)
     public_suffix (5.0.1)
     rack (2.2.7)
     rb-fsevent (0.11.2)
@@ -109,6 +110,7 @@ PLATFORMS
 DEPENDENCIES
   middleman (~> 4.2)
   middleman-autoprefixer (~> 3.0)
+  pg (~> 1.5, >= 1.5.3)
   tzinfo-data
   wdm (~> 0.1)
 
