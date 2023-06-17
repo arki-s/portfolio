@@ -8,9 +8,10 @@ body {
   background: white;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  padding-left: 3rem;
-  padding-right: 3rem;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border: 10px solid $brown;
 }
 
 #about {
@@ -20,6 +21,7 @@ body {
   padding-left: 3rem;
   padding-right: 3rem;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border: 10px solid $brown;
 }
 
 #projects {
@@ -29,4 +31,5 @@ body {
   padding-left: 3rem;
   padding-right: 3rem;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border: 10px solid $brown;
 }

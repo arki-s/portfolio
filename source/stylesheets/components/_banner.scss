@@ -1,5 +1,13 @@
 .banner {
   height: 100vh;
+  background: white;
+  padding: 1rem;
+  margin-top: 2rem;
+  margin-right: 3rem;
+  margin-left: 3rem;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border: 10px solid $brown;
+  text-align: center;
 
   h1 {
     font-weight: bold;
