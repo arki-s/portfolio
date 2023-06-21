@@ -19,9 +19,9 @@
   image: projects/icecreamshop.png
   url: https://icecreamshop-473f8c2e9c87.herokuapp.com/
 
-# - name: Final project
-#   role:
-#   used:
-#   description: Decent description of the app
-#   image: projects/placeholder.png
-#   url: https://www.google.com
+- name: 30 days Task Manager
+  role:
+  used: Rails, HTML, SCSS
+  description: A simple web app to manage daily tasks for 30 days.
+  image: projects/taskmanager.png
+  url: https://thirtydaystaskmanager-d621a4f87c1d.herokuapp.com/
