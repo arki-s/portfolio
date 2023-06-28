@@ -25,3 +25,10 @@
   description: A simple web app to manage daily tasks for 30 days.
   image: projects/taskmanager.png
   url: https://thirtydaystaskmanager-d621a4f87c1d.herokuapp.com/
+
+  name: Taiyaki race
+  role:
+  used: Javascript, HTML, SCSS
+  description: Simple three player JS racing game.
+  image: projects/taiyakirace.png
+  url: https://warm-sunburst-126e25.netlify.app
