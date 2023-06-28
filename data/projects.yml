@@ -26,9 +26,9 @@
   image: projects/taskmanager.png
   url: https://thirtydaystaskmanager-d621a4f87c1d.herokuapp.com/
 
-  name: Taiyaki race
+- name: Taiyaki race
   role:
   used: Javascript, HTML, SCSS
   description: Simple three player JS racing game.
-  image: projects/taiyakirace.png
+  image: projects/Taiyakirace.png
   url: https://warm-sunburst-126e25.netlify.app
