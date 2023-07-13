@@ -1,20 +1,27 @@
 - name: Wolfminute
   role: Lead Developer
-  used: Rails, HTML, SCSS, JavaScript, Stimulus, AJAX, SQL, ChatGPT API
+  used: Rails, HTML, SCSS, JavaScript, Stimulus, AJAX, PostgreSQL, ChatGPT API
   description: A web app to optimize meetings. When booking a meeting, ChatGPT will suggest an appropriate date, time and agenda. In online meetings, ChatGPT will automatically extract the summary. Also provides analytics on the time and cost of each member.
   image: projects/wolfminute.png
   url: https://wolfminute.herokuapp.com/
 
 - name: Happy Ending
   role: Lead Developer
-  used: Rails, HTML, SCSS, JavaScript, Stimulus, AJAX, SQL
+  used: Rails, HTML, SCSS, JavaScript, Stimulus, AJAX, PostgreSQL
   description: A fictitious marketplace to rental boyfriends and girlfriends. You can book your favorite people and also offer new service to become new rental boyfriend or girlfriend.
   image: projects/happyending.png
   url: https://happyending.herokuapp.com/
 
+- name: Read list
+  role:
+  used: Rails, HTML, SCSS, JavaScript, Stimulus, PostgreSQL
+  description: A web app for bookworms. This app can manage your reading history such as reading progress, reading schedules, book list and analytics.
+  image: projects/readlist.png
+  url: https://readlist-rs-4b8cbda337e3.herokuapp.com/
+
 - name: Ice Cream Shop
   role:
-  used: Rails, HTML, SCSS, Javascript, Stimulus, AJAX, SQL
+  used: Rails, HTML, SCSS, Javascript, Stimulus, AJAX, PostgreSQL
   description: A web app to help an ice cream shop owner by creating new menus. The more you create a new menu, the more happy the owner is.
   image: projects/icecreamshop.png
   url: https://icecreamshop-473f8c2e9c87.herokuapp.com/
