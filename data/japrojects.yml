@@ -1,0 +1,41 @@
+- name: Wolfminute
+  role: Lead Developer
+  used: Rails, HTML, SCSS, JavaScript, Stimulus, AJAX, PostgreSQL, ChatGPT API
+  description: ミーティングを最適化するためのアプリです。ミーティング予約時に各メンバーの空き時間を自動的に抽出し、アジェンダに合わせた会議時間とスケジュールをチャットGPTが提案します。ミーティングの際には話した内容をチャットGPTが要約します。また、アナリティクス機能で全体だけではなく各メンバーの総会議時間やそれに係るコストなどの情報を得られます。
+  image: projects/wolfminute.png
+  url: https://wolfminute.herokuapp.com/
+
+- name: Happy Ending
+  role: Lead Developer
+  used: Rails, HTML, SCSS, JavaScript, Stimulus, AJAX, PostgreSQL
+  description: 彼氏彼女をレンタルできる架空のマーケットプレイスアプリです。お気に入りの人物の詳細を確認して予約できるだけではなく、自分自身をレンタル彼氏彼女として掲載することも可能です。
+  image: projects/happyending.png
+  url: https://happyending.herokuapp.com/
+
+- name: Read list
+  role:
+  used: Rails, HTML, SCSS, JavaScript, Stimulus, PostgreSQL
+  description: 本の虫のためのアプリです。本のリストをお気に入り機能などで管理でき、これまでに読んだ本の履歴や読んだ期間のスケジュールの情報もまとめて確認できることに加え、これから読む本の予定を入力していくことも可能です。
+  image: projects/readlist.png
+  url: https://readlist-rs-4b8cbda337e3.herokuapp.com/
+
+- name: Ice Cream Shop
+  role:
+  used: Rails, HTML, SCSS, Javascript, Stimulus, AJAX, PostgreSQL
+  description: 新しいアイスクリームのメニューを考案することでアイスクリーム屋さんのオーナーを助けるアプリです。たくさんメニューを作れば作るほどひよこのオーナーが喜びます。
+  image: projects/icecreamshop.png
+  url: https://icecreamshop-473f8c2e9c87.herokuapp.com/
+
+- name: 30 days Task Manager
+  role:
+  used: Rails, HTML, SCSS
+  description: 30日間の間、習慣づけたいタスクの達成可否を管理できるシンプルなアプリです。
+  image: projects/taskmanager2.png
+  url: https://thirtydaystaskmanager-d621a4f87c1d.herokuapp.com/
+
+- name: Taiyaki race
+  role:
+  used: Javascript, HTML, CSS
+  description: 3人で遊べるシンプルなJSのレースゲームです。
+  image: projects/taiyaki.png
+  url: https://warm-sunburst-126e25.netlify.app
