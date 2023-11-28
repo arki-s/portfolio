@@ -1,9 +1,9 @@
-- name: Wolfminute
-  role: Lead Developer
-  used: Rails, HTML, SCSS, JavaScript, Stimulus, AJAX, PostgreSQL, ChatGPT API
-  description: A web app to optimize meetings. When booking a meeting, ChatGPT will suggest an appropriate date, time and agenda. In online meetings, ChatGPT will automatically extract the summary. Also provides analytics on the time and cost of each member.
-  image: projects/wolfminute.png
-  url: https://wolfminute.herokuapp.com/
+# - name: Wolfminute
+#   role: Lead Developer
+#   used: Rails, HTML, SCSS, JavaScript, Stimulus, AJAX, PostgreSQL, ChatGPT API
+#   description: A web app to optimize meetings. When booking a meeting, ChatGPT will suggest an appropriate date, time and agenda. In online meetings, ChatGPT will automatically extract the summary. Also provides analytics on the time and cost of each member.
+#   image: projects/wolfminute.png
+#   url: https://wolfminute.herokuapp.com/
 
 - name: Happy Ending
   role: Lead Developer

@@ -1,9 +1,9 @@
-- name: Wolfminute
-  role: Lead Developer
-  used: Rails, HTML, SCSS, JavaScript, Stimulus, AJAX, PostgreSQL, ChatGPT API
-  description: ミーティングを最適化するためのアプリです。ミーティング予約時に各メンバーの空き時間を自動的に抽出し、アジェンダに合わせた会議時間とスケジュールをチャットGPTが提案します。ミーティングの際には話した内容をチャットGPTが要約します。また、アナリティクス機能で全体だけではなく各メンバーの総会議時間やそれに係るコストなどの情報を得られます。
-  image: projects/wolfminute.png
-  url: https://wolfminute.herokuapp.com/
+# - name: Wolfminute
+#   role: Lead Developer
+#   used: Rails, HTML, SCSS, JavaScript, Stimulus, AJAX, PostgreSQL, ChatGPT API
+#   description: ミーティングを最適化するためのアプリです。ミーティング予約時に各メンバーの空き時間を自動的に抽出し、アジェンダに合わせた会議時間とスケジュールをチャットGPTが提案します。ミーティングの際には話した内容をチャットGPTが要約します。また、アナリティクス機能で全体だけではなく各メンバーの総会議時間やそれに係るコストなどの情報を得られます。
+#   image: projects/wolfminute.png
+#   url: https://wolfminute.herokuapp.com/
 
 - name: Happy Ending
   role: Lead Developer
